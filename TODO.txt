@@ -1,0 +1,3 @@
+add separator between blocks and above the footer
+add more recipies
+add icons for ingridients
